@@ -21,8 +21,8 @@ A lightweight HTTP/1.1 server implementation built from scratch in Go, parsing T
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd httpfromtcp
+git clone https://github.com/shv-ng/http-from-tcp
+cd http-from-tcp
 
 # Install dependencies
 go mod download
